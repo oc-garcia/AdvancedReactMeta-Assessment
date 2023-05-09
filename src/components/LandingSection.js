@@ -5,7 +5,7 @@ import FullScreenSection from "./FullScreenSection";
 const greeting = "Hello, I am Octávio!";
 const bio1 = "A frontend developer";
 const bio2 = "specialised in React";
-onst LandingSection = () => (
+const LandingSection = () => (
   <FullScreenSection justifyContent="center" alignItems="center" isDarkBackground backgroundColor="#2A4365">
     <Avatar src="https://github.com/oc-garcia.png" size="xl" />
     <VStack>

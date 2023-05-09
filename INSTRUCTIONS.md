@@ -69,7 +69,7 @@ b) **Add internal links to the Projects section and Contact Me section**
 Each link should be a `a` tag. Each `a` tag should have as children the name of the section: "Contact Me" and "Projects".
 When clicking on the link, the url should show the corresponding section. For example, when clicking on the "Contact Me" link, the url path should be `/#contact-me`.
 Also, the click should scroll to the corresponding section with a smooth animation. The code for that has been provided for you via the `handleClick` function. You need to hook that function with the `a` tag `onClick` event.
-Bear in mind the Projects section has an id called `projects-section` and the Contact Me section has an id called `contactme-section`.
+Bear in mind the Projects section has an id called `projects-section` and the Contact Me section has an id called ``.
 
 Avoid any key related warnings when opening the console.
 
